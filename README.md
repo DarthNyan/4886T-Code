@@ -1,5 +1,5 @@
 # 4886T ROBOT CODE
-#### Video Demo:
+#### Video Demo: https://www.youtube.com/watch?v=KTLBmHqw3lY
 #### Description:
 
 This is the latest version of the code for my Vex VRC robot, 4886T. The motor configurations and constants used are specific to my robot, but they could be updated to fit any robot of a similar layout. The program was written on Vexcode V5 Pro, which functions as an IDE and compiles code for the robot brain. My robot currently consists of four drive motors (which power the wheels), two on each side, two motors powering a four-bar lift, one motor powering a "mobile goal" (mogo) grabber, and one motor powering a "ring" intake.
